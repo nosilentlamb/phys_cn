@@ -4,7 +4,7 @@ collection: talks
 excerpt: 
 date: 2015-08-23
 talkurl: 'https://indico.cern.ch/event/331032/search?q=jing%20shu'
-image: '../assets/images/blog/SUSY2015.png'
+image: assets/images/blog/SUSY2015.png
 ---
 
 
