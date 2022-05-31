@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2021-01-01
 talkurl: ''
-image: ../assets/images/HuayangSong.jpg
+image: assets/images/HuayangSong.jpg
 pers_name: '宋华洋'
 grad_bs: '复旦大学'
 grad_phd: '美国亚利桑那大学'
