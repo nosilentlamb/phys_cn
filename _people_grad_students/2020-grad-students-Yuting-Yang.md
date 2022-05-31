@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2020-01-01
 talkurl: ''
-image: '../assets/images/Yuting Yang1.jpg'
+image: ../assets/images/YutingYang1.jpg
 pers_name: '杨钰廷'
 grad_bs: '南京大学'
 enro_year: '2020' 

@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2017-01-01
 talkurl: ''
-image: '../assets/images/Ziyu Dong.jpg'
+image: assets/images/ZiyuDong.jpg
 pers_name: '董子毓'
 grad_bs: '中国科学技术大学'
 enro_year: '2017' 

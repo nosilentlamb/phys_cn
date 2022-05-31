@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2019-01-01
 talkurl: ''
-image: '../assets/images/chenyifan.jpg'
+image: ../assets/images/chenyifan.jpg
 pers_name: '陈一帆'
 grad_bs: '中国科学技术大学'
 grad_phd: '法国索邦大学'

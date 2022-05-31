@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2019-01-01
 talkurl: ''
-image: '../assets/images/Fei Huang.jpeg'
+image: ../assets/images/FeiHuang.jpeg
 pers_name: '黄飞'
 grad_bs: '南昌大学'
 grad_phd: '美国亚利桑那大学'

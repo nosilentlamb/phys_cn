@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2021-01-01
 talkurl: ''
-image: '../assets/images/Chunlong Li.jpeg'
+image: ../assets/images/ChunlongLi.jpeg
 pers_name: '李春龙'
 grad_bs: '湖南师范大学'
 grad_phd: '中国科学技术大学'

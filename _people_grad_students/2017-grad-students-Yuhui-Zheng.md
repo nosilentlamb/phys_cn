@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2017-01-01
 talkurl: ''
-image: '../assets/images/Yuhui Zheng.jpg'
+image: assets/images/YuhuiZheng.jpg
 pers_name: '郑煜辉'
 grad_bs: '兰州大学'
 enro_year: '2017' 
