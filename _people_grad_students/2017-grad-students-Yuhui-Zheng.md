@@ -1,5 +1,5 @@
 ---
-title: "2017-grad-students-Yuhui Zheng"
+title: "2017-grad-students-Yuhui-Zheng"
 collection: people
 excerpt: 
 date: 2017-01-01
@@ -10,7 +10,6 @@ grad_bs: '兰州大学'
 enro_year: '2017' 
 email_addr: 'zhengyuhui@itp.ac.cn'
 ---
-
 
 有效场论
 
