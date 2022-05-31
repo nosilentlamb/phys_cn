@@ -4,7 +4,7 @@ collection: research_reports
 excerpt: 'none'
 date: 2020-10-12
 paper_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.161804
-image: '../assets/images/projects/Hight-pic-3.png'
+image: assets/images/projects/Hight-pic-3.png
 issue_num: 'Phys. Rev. Lett. 125, 161804, 2020'
 ---
 
