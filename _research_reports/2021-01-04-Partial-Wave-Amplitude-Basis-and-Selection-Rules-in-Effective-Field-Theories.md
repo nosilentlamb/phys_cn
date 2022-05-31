@@ -4,7 +4,7 @@ collection: research_reports
 excerpt: 'none'
 date: 2021-01-04
 paper_url: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.126.011601
-image: '../assets/images/projects/Highlight-pic-2.png'
+image: assets/images/projects/Highlight-pic-2.png
 issue_num: 'PhysRevLett.126.011601, 2021'
 ---
 
