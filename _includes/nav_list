@@ -1,4 +1,4 @@
-{% include base_path %}
+ {% include base_path %}
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
@@ -18,7 +18,7 @@
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
-
+    
         {% if nav.children != null %}
         <ul>
           {% for child in nav.children %}
