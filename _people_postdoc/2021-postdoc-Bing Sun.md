@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2021-01-01
 talkurl: ''
-image: ../assets/images/BingSun1.jpg
+image: assets/images/BingSun1.jpg
 pers_name: '孙兵'
 grad_bs: '绍兴文理学院'
 grad_phd: '北京师范大学'
