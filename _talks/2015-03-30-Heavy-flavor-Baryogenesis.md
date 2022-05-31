@@ -4,7 +4,7 @@ collection: talks
 excerpt: 
 date: 2015-03-30
 talkurl: ''
-image: '../assets/images/blog/BLV2015.png'
+image: assets/images/blog/BLV2015.png
 ---
 
 
