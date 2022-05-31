@@ -4,7 +4,7 @@ collection: research_reports
 excerpt: 'none'
 date: 2021-12-15
 paper_url: https://doi.org/10.1103/PhysRevLett.127.251303
-image: '../assets/images/projects/Highlight-pic-1.jpg'
+image: assets/images/projects/Highlight-pic-1.jpg
 issue_num: 'PhysRevLett.127.251303, 2021'
 ---
 
