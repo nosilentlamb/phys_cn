@@ -1,28 +1,28 @@
 # main links links
 main:
   - title: "科研"
-    url: research/
+    url: /research/
 
 #   - title: "Publications"
-#     url: publications/
+#     url: /publications/
 
   - title: "报告"
-    url: talks/    
+    url: /talks/    
 
   - title: "教学"
-    url: teaching/    
+    url: /teaching/    
     
   - title: "成员"
-    url: stud_members/
+    url: /stud_members/
         
   - title: "简历"
-    url: cv/
+    url: /cv/
  
   - title: "软件"
-    url: softwares/
+    url: /softwares/
     
   - title: "招聘"
-    url: jobs/
+    url: /jobs/
     
   - title: "ENGLISH"
     url: https://jingshugroup.github.io/phys/
