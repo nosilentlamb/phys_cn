@@ -4,7 +4,7 @@ collection: people
 excerpt: 
 date: 2021-01-01
 talkurl: ''
-image: ../assets/images/ZhanBai1.jpg
+image: assets/images/ZhanBai1.jpg
 pers_name: '摆展'
 grad_bs: '北京大学'
 grad_phd: '北京大学'
